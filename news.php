@@ -27,8 +27,8 @@
             <h2>
               <a href="/2021/9/17/this-week-in-rails-rails-7-alpha-released/" rel="bookmark">Rails 7 alpha released</a>
             </h2>
-            <p class="entry-meta">
-              Posted by <span class="vcard"><span class="fn">morgoth85</span></span>,
+            <p class=  "entry-meta">
+                 Posted by <span class="vcard"><span class="fn">morgoth85</span></span>,
               <span class="published" title="2021-09-17 00:00:00 +0000">September 17, 2021 @ 12:00 am</span>
               
                 <span class="categories">in
